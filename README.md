@@ -1,5 +1,4 @@
 # BUPT-SDN-Assignment
 
-updating...
-
+Our SDN-Assignment solution.
 
